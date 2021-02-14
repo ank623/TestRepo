@@ -8,7 +8,7 @@ import com.amazon.base.TestBase;
 
 public class LoginPage extends TestBase{
 
-	//Page factory -OR-:
+	//Page factory -OR-: 
 	@FindBy(id="nav-link-accountList-nav-line-1")
 	WebElement LoginBtn;
 	
