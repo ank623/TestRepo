@@ -1,0 +1,6 @@
+com\amazon\testcases\HomePageTest.class
+com\amazon\testcases\ProfilePageTest.class
+com\amazon\testcases\EditProfilePageTest.class
+com\amazon\testcases\AddAddressPageTest.class
+com\amazon\testcases\ElectronicsPageTest.class
+com\amazon\testcases\LoginPageTest.class
