@@ -1,4 +1,4 @@
-package com.amazon.testcases;
+/*package com.amazon.testcases;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -53,6 +53,10 @@ public class AddAddressPageTest extends TestBase{
 		aap.addAddress(FullName, MobileNo, PinCode, Flat, Area, Landmark, Town);
 	}
 	
-	
+	@AfterMethod
+	public void tearDown()
+	{
+		driver.quit();
+	}
 
-}
+}*/
